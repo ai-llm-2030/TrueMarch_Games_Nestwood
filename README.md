@@ -16,6 +16,13 @@
   <img src="assets/screenshot-play.png" alt="Nestwood — gameplay" width="820">
 </p>
 
+## More screenshots
+
+<table>
+<tr><td width="50%"><img src="assets/screenshot-map.png" alt="The inn's twenty rooms"><br><sub>The inn's twenty rooms</sub></td><td width="50%"><img src="assets/screenshot-brief.png" alt="A room brief"><br><sub>A room brief</sub></td></tr>
+<tr><td width="50%"><img src="assets/screenshot-workshop.png" alt="The Workshop Floor"><br><sub>The Workshop Floor</sub></td><td width="50%"><img src="assets/screenshot-how.png" alt="How to play"><br><sub>How to play</sub></td></tr>
+</table>
+
 ## Controls
 
 | Keys | Action |
